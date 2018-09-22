@@ -1,11 +1,16 @@
 _repo: No-Man-s-Land-A-History-of-El-Camino-Real_55055
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55055-h/images/cover.jpg
 creator:
   author:
     agent_name: Nardini, Louis Raphael
     gutenberg_agent_id: '48171'
     url: http://www.gutenberg.org/2009/agents/48171
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55055#No-Man-s-Land-A-History-of-El-Camino-Real
 gutenberg_issued: '2017-07-06'
 gutenberg_type: Text
 identifiers:
